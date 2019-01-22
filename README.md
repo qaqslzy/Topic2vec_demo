@@ -1,5 +1,5 @@
 # Topic2Vec
-根据Topic2Vec: Learning Distributed Representations of Topics这篇论文，用tensorflow实现的Topic2vec
+根据[Topic2Vec: Learning Distributed Representations of Topics](https://github.com/qaqslzy/Topic2vec_demo/blob/master/topic2vec.pdf)这篇论文，用tensorflow实现的Topic2vec
 依赖于gensim，nltk，tensorflow
 ## topic2vec
 用tensorflow来进行topic2vec的运算
